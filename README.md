@@ -21,3 +21,26 @@ This project is a modern website developed to provide users with an easy and int
 - Interactive pages
 - Database integration
 - Secure login system 
+# ICT Department Website
+
+## Project Description
+This is a full-stack ICT Department website built using HTML, CSS, JavaScript, Node.js, Express and a database.
+
+## How to Install
+1. Clone the repository
+2. Open terminal in project folder
+3. Run: npm install
+
+## How to Run
+1. Run: npm start
+2. Open browser: http://localhost:3000
+
+
+
+## Features
+- User authentication
+- Event management
+- Staff profiles
+- Enquiry system
+- Chatbot (smart feature)
+
