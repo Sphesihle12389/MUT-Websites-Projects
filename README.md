@@ -13,12 +13,11 @@ This project is a modern website developed to provide users with an easy and int
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap
-- PHP / C# / MySQL (change according to your project)
+- MySQL 
 
 ## ✨ Features
 - Responsive design for mobile and desktop
 - User-friendly navigation
 - Interactive pages
 - Database integration
-- Secure login system (if available)
+- Secure login system 
